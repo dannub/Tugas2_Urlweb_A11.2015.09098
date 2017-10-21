@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string-array name="protokol">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
